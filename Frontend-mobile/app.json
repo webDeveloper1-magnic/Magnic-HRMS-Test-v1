@@ -40,6 +40,9 @@
         "projectId": "15a65c7a-daa6-4a07-8e4a-37e5a18ceb3e"
       }
     },
-    "owner": "saravana-magnic"
+    "owner": "saravana-magnic",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
